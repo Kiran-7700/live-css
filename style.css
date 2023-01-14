@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(185, 230, 140);
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+button{
+    height: 40px;
+    width: 100px;
+    border: 1px solid;
+    border-radius: 20px;
+}
+.link{
+    margin-right: 20px;
+}
+.main{
+    position: relative;
+}
+.form{
+    background-image: url(./top-view-background-beautiful-white-grey-brown-cream-blue-background_140725-72219.webp);
+    height: 300px;
+    width: 500px;
+    border: 1px ;
+    text-align: center;
+    line-height: 35px;
+    position: absolute;
+    margin: 10px;
+    left: 740px;
+    top: 10px;
+}
+.youtube{
+    position: absolute;
+    top: 370px;
+    left: 740px;
+    margin: 10px;
+}
+.a1{
+   
+    margin: 20px;
+}
